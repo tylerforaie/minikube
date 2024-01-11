@@ -9,8 +9,4 @@ patches:
       - op: replace
         path: /metadata/name
         value: podinfo-2-rc
-      - op: replace
-        path: /spec/releaseName
-        value: podinfo-2-rc
-      
       

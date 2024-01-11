@@ -1,7 +1,7 @@
 apiVersion: helm.toolkit.fluxcd.io/v2beta2
 kind: HelmRelease
 metadata:
-  name: podinfo-rc
+  name: podinfo-1
   namespace: default
 spec:
   chart:
