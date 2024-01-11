@@ -8,5 +8,5 @@ patches:
     patch: |-
       - op: replace
         path: /metadata/name
-        value: podinfo-2-rc
+        value: podinfo-3-rc
       

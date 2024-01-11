@@ -4,7 +4,7 @@ metadata:
   name: podinfo-2
   namespace: default
 spec:
-  releaseName: podinfo-2
+  releaseName: podinfo-3
   chart:
     spec:
       chart: podinfo
